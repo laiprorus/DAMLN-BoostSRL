@@ -1,0 +1,29 @@
+setParam: treeDepth=4.
+setParam: nodeSize=3.
+setParam: numOfClauses=8.
+
+mode: r_faculty(`Page).
+
+mode: course(`Page).
+mode: department(`Page).
+mode: faculty(`Page).
+mode: person(`Page).
+mode: researchproject(`Page).
+mode: staff(`Page).
+mode: student(`Page).
+
+// mode: class(+Page, #Category).
+// mode: class(+Page, -Category).
+
+// mode: r_class(`Page, #Category).
+// mode: r_class(`Page, -Category).
+
+mode: has(+Page, -Word).
+mode: has(+Page, #Word).
+// mode: has(`Page, -Word).
+// mode: has(`Page, #Word).
+
+mode: linkto(+Page, -Page).
+mode: linkto(-Page, +Page).
+
+bridger: linkto/2.

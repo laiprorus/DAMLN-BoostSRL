@@ -1,0 +1,71 @@
+baselines
+	student: 
+	person: 
+	course: 
+	staff: 
+	researchproject: 
+	department: 
+	faculty: 0,0404
+
+db.cornell.txt
+	Page constants: 832
+	Word constants: 766
+	Category ground atoms: 445
+	Has ground atoms: 57563
+	LinkTo ground atoms: 1778
+	
+	student: 128 0,1538
+	person: 183 0,2200
+	course: 28 0,0337
+	staff: 21 0,0252
+	researchproject: 20 0,0240
+	department: 31 0,0373
+	faculty: 34 0,0409
+
+
+db.texas.txt
+	Page constants: 803
+	Word constants: 765
+	Category ground atoms: 490
+	Has ground atoms: 50175
+	LinkTo ground atoms: 1919
+	
+	student: 148 0,1843
+	person: 197 0,2453
+	course: 38 0,0473
+	staff: 3 0,0037
+	researchproject: 18 0,0224
+	department: 40 0,0498
+	faculty: 46 0,0573
+
+
+db.washington.txt
+	Page constants: 1180
+	Word constants: 768
+	Category ground atoms: 413
+	Has ground atoms: 68758
+	LinkTo ground atoms: 2626
+	
+	student: 126 0,1068
+	person: 167 0,1415
+	course: 31 0,0263
+	staff: 10 0,0085
+	researchproject: 21 0,0178
+	department: 27 0,0229
+	faculty: 31 0,0263
+
+
+db.wisconsin.txt
+	Page constants: 1132
+	Word constants: 765
+	Category ground atoms: 533
+	Has ground atoms: 77065
+	LinkTo ground atoms: 2993
+
+	student: 156 0,1378
+	person: 210 0,1855
+	course: 44 0,0389
+	staff: 12 0,0106
+	researchproject: 25 0,0221
+	department: 44 0,0389
+	faculty: 42 0,0371

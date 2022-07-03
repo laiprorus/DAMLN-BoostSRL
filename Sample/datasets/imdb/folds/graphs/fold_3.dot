@@ -1,0 +1,656 @@
+graph IMDB {
+
+	// Director nodes
+	subgraph directors {
+		node[shape=diamond style=filled]
+		aromeclaudemichel
+		abraunbettinai
+		akinkelmartin
+		atraykovatanas
+		akronthalerthomas[ penwidth=5 fillcolor=lightskyblue]
+		aaltmanroberti
+		agustemmanuelii
+		avergnejeanpierre
+		acatonjonesmichael
+		astephanbernhard[ penwidth=5 fillcolor=lightskyblue]
+		aladogedominique[ penwidth=5 fillcolor=lightskyblue]
+		aklischstefan[ penwidth=5 fillcolor=lightskyblue]
+		ametcalfestephen
+		atonetticlaudio
+		aengelhardtwilhelm
+		akappesstphane
+		azensmichael
+		amillergeorgei
+		abonnetchristiani
+		asciveresmarianna
+		abattiatofranco
+		aapprederisfranck
+		apakulaalanj
+		apunchevborislav
+		agrimaldiaurelioi
+		asummereric
+		asoderberghsteven
+		asurchadzhievstefani
+		amarinovichanton
+		averhoevenpauli
+		agutjahrrainer
+		akrgnther[ penwidth=5 fillcolor=lightskyblue]
+	}
+
+	// Actor nodes
+	subgraph actors {
+		node[style=filled]
+		adietermann[ penwidth=5 fillcolor=lightskyblue]
+		afredward[ penwidth=5 fillcolor=lightskyblue]
+		afirminerichard[ penwidth=5 fillcolor=pink]
+		aclaudiamessner
+		aguillaumeromain[ penwidth=5 fillcolor=lightskyblue]
+		aenzodimartino
+		awilliamatherton
+		aconsuelolupo[ penwidth=5 fillcolor=lightskyblue]
+		astefanpetrov
+		awayneknight[ penwidth=5 fillcolor=lightskyblue]
+		aandreasschwaiger
+		aanthonyheald
+		aceceliaannbirt[ penwidth=5 fillcolor=pink]
+		adinaconnolly[ penwidth=5 fillcolor=pink]
+		aleonardlansink
+		apierrearditi
+		acoralyzahonero
+		alyubomirbobchevski
+		abrigittefossey[ penwidth=5 fillcolor=pink]
+		alloydalan
+		aivangrigorov
+		aantoninobruschetta
+		aluciasardo[ penwidth=5 fillcolor=pink]
+		asamantharnier
+		acarolflorence[ penwidth=5 fillcolor=pink]
+		atheresascholze
+		adenisarndt
+		aemilmarkov[ penwidth=5 fillcolor=lightskyblue]
+		ajeannetripplehorn
+		ascottcaan[ penwidth=5 fillcolor=pink]
+		ageorgeclooney[ penwidth=5 fillcolor=pink]
+		agerdlohmeyer
+		anicolegrimaudo
+		aalexandrawinisky
+		anicholaswoodeson[ penwidth=5 fillcolor=lightskyblue]
+		awhoopigoldberg
+		aindiravarma
+		agretascacchi
+		astefandanailov
+		adanielvonbargen
+		arobyndouglass
+		amarenschumacher
+		amiguelferrer[ penwidth=5 fillcolor=lightskyblue]
+		aantoniettacarbonetti
+		ajorgerhernandez[ penwidth=5 fillcolor=pink]
+		avolkerranisch[ penwidth=5 fillcolor=lightskyblue]
+		abrnicebejo[ penwidth=5 fillcolor=pink]
+		astanleyanderson[ penwidth=5 fillcolor=lightskyblue]
+		astevekuhn
+		apaolaciampi
+		aandygarcia[ penwidth=5 fillcolor=lightskyblue]
+		asharonstone[ penwidth=5 fillcolor=pink]
+		amarisaburger[ penwidth=5 fillcolor=pink]
+		akarinthaler
+		adanielegalea
+		astevekalfa[ penwidth=5 fillcolor=lightskyblue]
+		arichardegrant[ penwidth=5 fillcolor=lightskyblue]
+		adavidsontag[ penwidth=5 fillcolor=lightskyblue]
+		aivantonev
+		asonyadjulgerova[ penwidth=5 fillcolor=pink]
+		ajamessikking[ penwidth=5 fillcolor=lightskyblue]
+		adimitarhadzhiyanev[ penwidth=5 fillcolor=lightskyblue]
+		acatherinezetajones[ penwidth=5 fillcolor=pink]
+		amarcospicuglia
+		anormanarmour[ penwidth=5 fillcolor=lightskyblue]
+		asheilapaterson
+		ajohnheard
+		agabrieleferzetti
+		afrancishuster
+		apetergallagher[ penwidth=5 fillcolor=lightskyblue]
+		adavidthewlis
+		aantonradichev[ penwidth=5 fillcolor=lightskyblue]
+		asydneypollack[ penwidth=5 fillcolor=lightskyblue]
+		ajrggudzuhn
+		alaurabetti
+		aannamariagherardi
+		alarrysontag
+		amaurizionicolosi[ penwidth=5 fillcolor=lightskyblue]
+		afrancomirabella
+		abarbaratabita[ penwidth=5 fillcolor=pink]
+		ajanchappell
+		anikoladadov
+		aminianden
+		aianholm[ penwidth=5 fillcolor=lightskyblue]
+		alewissmith
+		aviktordanchenko
+		abradpitt
+		amichaeldouglas
+		aneilmaskell[ penwidth=5 fillcolor=lightskyblue]
+		ajuliaroberts
+		amanliosgalambro[ penwidth=5 fillcolor=lightskyblue]
+		aberniemac[ penwidth=5 fillcolor=pink]
+		ajohnfinn[ penwidth=5 fillcolor=lightskyblue]
+		afloramontgomery
+		ajackmcgee
+		ageorgedzundza
+		aarmelledeutsch[ penwidth=5 fillcolor=pink]
+		aulrichmhe
+		asotirmaynolovski
+		acaseyaffleck
+		arobertculp[ penwidth=5 fillcolor=lightskyblue]
+		atzenokandov
+		aivanbratanov[ penwidth=5 fillcolor=lightskyblue]
+		amarksangster
+		acaitlinoheaney
+		alyubomirbachvarov
+		aserenaautieri
+		apetardespotov
+		aterenceharvey
+		agesinecukrowski
+		aileanarigano
+		agabriellelazure
+		ajustinmonjo
+		aginachiarelli
+		aconnorwiddows[ penwidth=5 fillcolor=lightskyblue]
+		alylelovett
+		astancollymore
+		araffaeladavi[ penwidth=5 fillcolor=pink]
+		ajuliedray[ penwidth=5 fillcolor=pink]
+		ajannowicki
+		atzvetolyubrakovski
+		afabiolobello
+		afrankpatton
+		amichalbajor[ penwidth=5 fillcolor=lightskyblue]
+		atimothypaulperez
+		atimrobbins
+		adinamerrill
+		aalancpeterson
+		aludwigbriand
+		adeanstockwell
+		afrankcturner[ penwidth=5 fillcolor=lightskyblue]
+		astanleytucci
+		amarccaleb
+		agilbellows
+		amaurolenares[ penwidth=5 fillcolor=lightskyblue]
+		astefanpejchev
+		abogomilsimeonov
+		adorothymalone[ penwidth=5 fillcolor=pink]
+		adebraengle
+		adonatellafinocchiaro
+		amaxmller[ penwidth=5 fillcolor=lightskyblue]
+		ageorgistamatov
+		aangelahall
+		astoychomazgalov[ penwidth=5 fillcolor=lightskyblue]
+		avincenzocrivello[ penwidth=5 fillcolor=lightskyblue]
+		avincentlecoeur
+		arenateschroeter
+		accilecassel
+		adannflorek
+		amikhailmikhajlov[ penwidth=5 fillcolor=lightskyblue]
+		aauroraquattrocchi
+		abrionjames
+		ahristodinev[ penwidth=5 fillcolor=lightskyblue]
+		asavahashamov[ penwidth=5 fillcolor=lightskyblue]
+		aangelinasarova[ penwidth=5 fillcolor=pink]
+		asamshepard
+		ahubertmulzer
+		adontiffany
+		amarkusbker
+		abiagiobarone[ penwidth=5 fillcolor=lightskyblue]
+		asalvatorelazzaro
+		amarcoleonardi
+		akostatsonev[ penwidth=5 fillcolor=lightskyblue]
+		amarcocavicchioli
+		agusmercurio[ penwidth=5 fillcolor=lightskyblue]
+		ajaimzwoolvett[ penwidth=5 fillcolor=lightskyblue]
+		amanueladolcemascolo
+		aleilanisarelle
+		abenjohnson
+		abruceayoung
+		aloccorbery
+		ajuttawachowiak[ penwidth=5 fillcolor=pink]
+		athomasstielner
+		asaromiano
+		abillyconnolly
+		aivankondov
+		alucavitrano
+		apenlopecruz
+		akirilyanev
+		achelcieross[ penwidth=5 fillcolor=pink]
+		aganchoganchev[ penwidth=5 fillcolor=lightskyblue]
+		avincentdonofrio[ penwidth=5 fillcolor=lightskyblue]
+		adenzelwashington
+		astephentobolowsky[ penwidth=5 fillcolor=lightskyblue]
+		ahughkeaysbyrne[ penwidth=5 fillcolor=lightskyblue]
+		adillonmoen
+		adavidmorrissey[ penwidth=5 fillcolor=lightskyblue]
+		aalicjajachiewicz[ penwidth=5 fillcolor=pink]
+		abenjaminmouton
+		aemiliaradeva[ penwidth=5 fillcolor=pink]
+		apatricejuiff[ penwidth=5 fillcolor=lightskyblue]
+		aheathcotewilliams
+		amarkgantt
+		aivandimov[ penwidth=5 fillcolor=lightskyblue]
+		aannejacques
+		ahumecronyn
+		aleahayres
+		acharlotterampling
+		aeddasabatini
+		acorradofortuna
+		afranoisechristophe
+		agiancarloscuderi
+		apetyasilyanova[ penwidth=5 fillcolor=pink]
+		aelliottgould
+		adavidarnett[ penwidth=5 fillcolor=lightskyblue]
+		adidierdijoux[ penwidth=5 fillcolor=lightskyblue]
+		aradarassimov
+		alorigalinski
+		atonygoldwyn[ penwidth=5 fillcolor=lightskyblue]
+		akunkabaeva
+		akonstanzebreitebner
+		atimberrington
+		atizianalodato
+		anelsonpeltz
+		acarmelogalati
+		apieradegliesposti
+		aeddiejemison
+		ahorstkummeth
+		aluciacammalleri[ penwidth=5 fillcolor=pink]
+		apaullnolan[ penwidth=5 fillcolor=pink]
+		avyarakovacheva
+		abillcable
+		ajurneesmollett
+		amariashopova
+		aedkross[ penwidth=5 fillcolor=lightskyblue]
+		alyubomirkanev
+		ajohnlithgow
+		acynthiastevenson[ penwidth=5 fillcolor=pink]
+		aellenthomas
+		acesareapolito[ penwidth=5 fillcolor=lightskyblue]
+		astefanodionisi
+		avannifois[ penwidth=5 fillcolor=lightskyblue]
+		atommikulla
+		aestefanacastro[ penwidth=5 fillcolor=pink]
+		ahughdancy
+		anevenakokanova
+	}
+
+	// Movie nodes
+	subgraph movies {
+		node[shape=box style=filled]
+		aunetunfontsix[ fillcolor=coral penwidth=5]
+		abasicinstinct[ fillcolor=coral penwidth=5]
+		agrandpatronle[ fillcolor=coral penwidth=5]
+		abadlands2005[ fillcolor=coral penwidth=5]
+		aperdutoamor[ fillcolor=coral penwidth=5]
+		aoceanstwelve[ fillcolor=coral penwidth=5]
+		apelicanbriefthe[ fillcolor=coral penwidth=5]
+		anerolio[ fillcolor=coral penwidth=5]
+		aplayerthe[ fillcolor=coral penwidth=5]
+		arosenheimcopsdie[ fillcolor=coral penwidth=5]
+		abeautifuljoe[ fillcolor=coral penwidth=5]
+		abasicinstinct2[ fillcolor=coral penwidth=5]
+		aletztezeugeder[ fillcolor=coral penwidth=5]
+		akristali[ fillcolor=coral penwidth=5]
+		aribellela[ fillcolor=coral penwidth=5]
+		aoceanseleven[ fillcolor=coral penwidth=5]
+		ageratzite[ fillcolor=coral penwidth=5]
+		aspasenieto[ fillcolor=coral penwidth=5]
+		alegendazapaisiy[ fillcolor=coral penwidth=5]
+		asaramay[ fillcolor=coral penwidth=5]
+	}
+
+	// Genre nodes
+	subgraph genres {
+		node[shape=parallelogram,style=filled]
+		amystery
+		acomedy[ fillcolor=limegreen penwidth=5]
+		ascifi
+		athriller
+		adrama
+		aaction
+		adocumentary
+		aromance
+		acrime[ fillcolor=limegreen penwidth=5]
+	}
+
+	// Movie edges
+	aletztezeugeder--aandreasschwaiger
+	anerolio--amarcocavicchioli
+	aletztezeugeder--akonstanzebreitebner
+	aspasenieto--alyubomirkanev
+	agrandpatronle--aladogedominique[ penwidth=5]
+	abeautifuljoe--aalancpeterson
+	abasicinstinct2--asharonstone[ penwidth=5]
+	aspasenieto--alyubomirbachvarov
+	abasicinstinct--achelcieross[ penwidth=5]
+	abasicinstinct--adanielvonbargen
+	ageratzite--aganchoganchev[ penwidth=5]
+	arosenheimcopsdie--akinkelmartin
+	aletztezeugeder--azensmichael
+	akristali--akostatsonev[ penwidth=5]
+	arosenheimcopsdie--ahubertmulzer
+	aperdutoamor--aantoninobruschetta
+	akristali--apetardespotov
+	aribellela--aauroraquattrocchi
+	anerolio--amaurolenares[ penwidth=5]
+	abasicinstinct2--aellenthomas
+	aoceanseleven--ascottcaan[ penwidth=5]
+	anerolio--asalvatorelazzaro
+	aoceanstwelve--acatherinezetajones[ penwidth=5]
+	aperdutoamor--aannamariagherardi
+	aplayerthe--abrionjames
+	alegendazapaisiy--atzenokandov
+	anerolio--agiancarloscuderi
+	aoceanstwelve--adinaconnolly[ penwidth=5]
+	abadlands2005--amiguelferrer[ penwidth=5]
+	agrandpatronle--afirminerichard[ penwidth=5]
+	aoceanstwelve--aminianden
+	aunetunfontsix--asamantharnier
+	agrandpatronle--acoralyzahonero
+	aribellela--astefanodionisi
+	aspasenieto--aemilmarkov[ penwidth=5]
+	aoceanseleven--aeddiejemison
+	abasicinstinct2--acatonjonesmichael
+	akristali--apetyasilyanova[ penwidth=5]
+	asaramay--avannifois[ penwidth=5]
+	alegendazapaisiy--akirilyanev
+	aribellela--araffaeladavi[ penwidth=5]
+	anerolio--avincenzocrivello[ penwidth=5]
+	aperdutoamor--aradarassimov
+	abasicinstinct2--atimberrington
+	aspasenieto--asotirmaynolovski
+	aunetunfontsix--apatricejuiff[ penwidth=5]
+	aoceanseleven--acaseyaffleck
+	arosenheimcopsdie--amaxmller[ penwidth=5]
+	abasicinstinct2--adavidmorrissey[ penwidth=5]
+	aspasenieto--akostatsonev[ penwidth=5]
+	aoceanstwelve--aedkross[ penwidth=5]
+	aribellela--aeddasabatini
+	aplayerthe--asydneypollack[ penwidth=5]
+	aletztezeugeder--arenateschroeter
+	aoceanseleven--atimothypaulperez
+	aplayerthe--apetergallagher[ penwidth=5]
+	abasicinstinct2--aterenceharvey
+	abeautifuljoe--abillyconnolly
+	apelicanbriefthe--ajamessikking[ penwidth=5]
+	aunetunfontsix--aloccorbery
+	akristali--asonyadjulgerova[ penwidth=5]
+	arosenheimcopsdie--agutjahrrainer
+	aplayerthe--aangelahall
+	anerolio--afrancomirabella
+	arosenheimcopsdie--abraunbettinai
+	ageratzite--atzvetolyubrakovski
+	aoceanseleven--aelliottgould
+	aoceanstwelve--asoderberghsteven
+	agrandpatronle--afrancishuster
+	akristali--aemiliaradeva[ penwidth=5]
+	agrandpatronle--atonetticlaudio
+	asaramay--abiagiobarone[ penwidth=5]
+	arosenheimcopsdie--ahorstkummeth
+	aplayerthe--atimrobbins
+	anerolio--agrimaldiaurelioi
+	apelicanbriefthe--atonygoldwyn[ penwidth=5]
+	abadlands2005--alloydalan
+	ageratzite--amarinovichanton
+	aperdutoamor--acorradofortuna
+	apelicanbriefthe--asamshepard
+	apelicanbriefthe--arobertculp[ penwidth=5]
+	aoceanseleven--amarkgantt
+	abeautifuljoe--agilbellows
+	agrandpatronle--abonnetchristiani
+	aoceanstwelve--ascottcaan[ penwidth=5]
+	aplayerthe--alylelovett
+	apelicanbriefthe--ajuliaroberts
+	ageratzite--aivandimov[ penwidth=5]
+	aunetunfontsix--aestefanacastro[ penwidth=5]
+	apelicanbriefthe--astanleyanderson[ penwidth=5]
+	abasicinstinct--ajeannetripplehorn
+	abeautifuljoe--ajurneesmollett
+	abeautifuljoe--asharonstone[ penwidth=5]
+	apelicanbriefthe--ahumecronyn
+	apelicanbriefthe--apakulaalanj
+	ageratzite--aivantonev
+	aspasenieto--anevenakokanova
+	apelicanbriefthe--ajohnlithgow
+	aoceanseleven--abradpitt
+	aletztezeugeder--agesinecukrowski
+	alegendazapaisiy--amikhailmikhajlov[ penwidth=5]
+	aspasenieto--abogomilsimeonov
+	abeautifuljoe--anormanarmour[ penwidth=5]
+	abeautifuljoe--adannflorek
+	aplayerthe--agretascacchi
+	asaramay--aconsuelolupo[ penwidth=5]
+	abeautifuljoe--ajaimzwoolvett[ penwidth=5]
+	abadlands2005--adebraengle
+	aspasenieto--amichalbajor[ penwidth=5]
+	abasicinstinct2--afloramontgomery
+	abadlands2005--acaitlinoheaney
+	aoceanseleven--ageorgeclooney[ penwidth=5]
+	apelicanbriefthe--aanthonyheald
+	abadlands2005--arobyndouglass
+	asaramay--aileanarigano
+	aplayerthe--avincentdonofrio[ penwidth=5]
+	abasicinstinct--asharonstone[ penwidth=5]
+	abeautifuljoe--afrankcturner[ penwidth=5]
+	abasicinstinct--ageorgedzundza
+	aoceanseleven--alorigalinski
+	abasicinstinct--aleilanisarelle
+	abasicinstinct2--ajanchappell
+	arosenheimcopsdie--akrgnther[ penwidth=5]
+	ageratzite--anikoladadov
+	aplayerthe--aleahayres
+	aoceanstwelve--ageorgeclooney[ penwidth=5]
+	agrandpatronle--accilecassel
+	aletztezeugeder--aleonardlansink
+	abadlands2005--amarccaleb
+	aperdutoamor--anicolegrimaudo
+	abasicinstinct2--aneilmaskell[ penwidth=5]
+	anerolio--aantoniettacarbonetti
+	aletztezeugeder--aclaudiamessner
+	aplayerthe--arichardegrant[ penwidth=5]
+	abadlands2005--ajustinmonjo
+	agrandpatronle--afranoisechristophe
+	aoceanseleven--acarolflorence[ penwidth=5]
+	abasicinstinct--adenisarndt
+	ageratzite--astefanpetrov
+	abeautifuljoe--aconnorwiddows[ penwidth=5]
+	aplayerthe--adeanstockwell
+	aribellela--apaolaciampi
+	aplayerthe--adinamerrill
+	asaramay--abarbaratabita[ penwidth=5]
+	aplayerthe--afredward[ penwidth=5]
+	abadlands2005--ahughkeaysbyrne[ penwidth=5]
+	aletztezeugeder--astephanbernhard[ penwidth=5]
+	aspasenieto--aalicjajachiewicz[ penwidth=5]
+	abadlands2005--alewissmith
+	abasicinstinct--abenjaminmouton
+	aperdutoamor--atizianalodato
+	aribellela--agrimaldiaurelioi
+	aperdutoamor--agabrieleferzetti
+	abeautifuljoe--aianholm[ penwidth=5]
+	abadlands2005--astevekuhn
+	arosenheimcopsdie--amarenschumacher
+	alegendazapaisiy--astoychomazgalov[ penwidth=5]
+	akristali--aivangrigorov
+	aribellela--amarcoleonardi
+	abasicinstinct2--acharlotterampling
+	arosenheimcopsdie--agerdlohmeyer
+	abeautifuljoe--adillonmoen
+	akristali--anevenakokanova
+	anerolio--aluciasardo[ penwidth=5]
+	aunetunfontsix--adidierdijoux[ penwidth=5]
+	aperdutoamor--alucavitrano
+	aunetunfontsix--ajuliedray[ penwidth=5]
+	aperdutoamor--abattiatofranco
+	aoceanseleven--ajorgerhernandez[ penwidth=5]
+	abasicinstinct--abillcable
+	aoceanstwelve--adontiffany
+	ageratzite--amariashopova
+	abasicinstinct--abruceayoung
+	aspasenieto--aantonradichev[ penwidth=5]
+	abasicinstinct2--aheathcotewilliams
+	anerolio--apieradegliesposti
+	arosenheimcopsdie--amarisaburger[ penwidth=5]
+	arosenheimcopsdie--athomasstielner
+	apelicanbriefthe--astanleytucci
+	abeautifuljoe--ametcalfestephen
+	akristali--atraykovatanas
+	abadlands2005--asharonstone[ penwidth=5]
+	alegendazapaisiy--aangelinasarova[ penwidth=5]
+	agrandpatronle--agabriellelazure
+	aspasenieto--ajannowicki
+	aletztezeugeder--ajrggudzuhn
+	abasicinstinct2--adavidthewlis
+	aoceanstwelve--adavidsontag[ penwidth=5]
+	abasicinstinct2--astancollymore
+	aperdutoamor--amanliosgalambro[ penwidth=5]
+	arosenheimcopsdie--aandreasschwaiger
+	anerolio--amarcospicuglia
+	anerolio--aenzodimartino
+	aoceanstwelve--alarrysontag
+	ageratzite--aangelinasarova[ penwidth=5]
+	alegendazapaisiy--alyubomirbobchevski
+	asaramay--amanueladolcemascolo
+	abasicinstinct--astephentobolowsky[ penwidth=5]
+	asaramay--aluciacammalleri[ penwidth=5]
+	aoceanstwelve--ajuliaroberts
+	alegendazapaisiy--asavahashamov[ penwidth=5]
+	aperdutoamor--adonatellafinocchiaro
+	asaramay--asciveresmarianna
+	apelicanbriefthe--awilliamatherton
+	akristali--astoychomazgalov[ penwidth=5]
+	arosenheimcopsdie--aklischstefan[ penwidth=5]
+	arosenheimcopsdie--aengelhardtwilhelm
+	abeautifuljoe--asheilapaterson
+	aspasenieto--astoychomazgalov[ penwidth=5]
+	aoceanseleven--aceceliaannbirt[ penwidth=5]
+	abeautifuljoe--abenjohnson
+	anerolio--amaurizionicolosi[ penwidth=5]
+	arosenheimcopsdie--akarinthaler
+	alegendazapaisiy--aivankondov
+	aunetunfontsix--aapprederisfranck
+	aletztezeugeder--atheresascholze
+	alegendazapaisiy--aviktordanchenko
+	aplayerthe--acynthiastevenson[ penwidth=5]
+	asaramay--acarmelogalati
+	aunetunfontsix--abrnicebejo[ penwidth=5]
+	aunetunfontsix--aarmelledeutsch[ penwidth=5]
+	agrandpatronle--agustemmanuelii
+	aletztezeugeder--avolkerranisch[ penwidth=5]
+	abasicinstinct--ajackmcgee
+	arosenheimcopsdie--atommikulla
+	aoceanstwelve--aandygarcia[ penwidth=5]
+	apelicanbriefthe--ajohnheard
+	aletztezeugeder--ajuttawachowiak[ penwidth=5]
+	aoceanstwelve--abradpitt
+	anerolio--asaromiano
+	aoceanseleven--aberniemac[ penwidth=5]
+	abasicinstinct--averhoevenpauli
+	arosenheimcopsdie--amarkusbker
+	aperdutoamor--aluciasardo[ penwidth=5]
+	agrandpatronle--asummereric
+	ageratzite--astefanpejchev
+	aunetunfontsix--avincentlecoeur
+	abadlands2005--amillergeorgei
+	asaramay--aluciasardo[ penwidth=5]
+	aunetunfontsix--aalexandrawinisky
+	akristali--adimitarhadzhiyanev[ penwidth=5]
+	abadlands2005--agusmercurio[ penwidth=5]
+	abadlands2005--adavidarnett[ penwidth=5]
+	asaramay--aserenaautieri
+	abasicinstinct--awayneknight[ penwidth=5]
+	abasicinstinct2--amarksangster
+	aoceanseleven--afrankpatton
+	aplayerthe--awhoopigoldberg
+	aunetunfontsix--avergnejeanpierre
+	aoceanseleven--asoderberghsteven
+	apelicanbriefthe--adenzelwashington
+	aoceanstwelve--acaseyaffleck
+	apelicanbriefthe--anicholaswoodeson[ penwidth=5]
+	ageratzite--akunkabaeva
+	aplayerthe--aaltmanroberti
+	aribellela--adanielegalea
+	akristali--astefandanailov
+	abasicinstinct--amichaeldouglas
+	abeautifuljoe--aginachiarelli
+	agrandpatronle--akappesstphane
+	agrandpatronle--astevekalfa[ penwidth=5]
+	abasicinstinct2--ahughdancy
+	aunetunfontsix--apierrearditi
+	aspasenieto--apunchevborislav
+	ageratzite--aivanbratanov[ penwidth=5]
+	anerolio--afabiolobello
+	alegendazapaisiy--ahristodinev[ penwidth=5]
+	aletztezeugeder--adietermann[ penwidth=5]
+	aletztezeugeder--aulrichmhe
+	abasicinstinct--adorothymalone[ penwidth=5]
+	aunetunfontsix--abrigittefossey[ penwidth=5]
+	aribellela--apenlopecruz
+	aoceanstwelve--anelsonpeltz
+	alegendazapaisiy--asurchadzhievstefani
+	agrandpatronle--aromeclaudemichel
+	aoceanstwelve--aannejacques
+	apelicanbriefthe--ajohnfinn[ penwidth=5]
+	aribellela--alaurabetti
+	aoceanseleven--apaullnolan[ penwidth=5]
+	aribellela--acesareapolito[ penwidth=5]
+	ageratzite--avyarakovacheva
+	arosenheimcopsdie--akronthalerthomas[ penwidth=5]
+	aunetunfontsix--aguillaumeromain[ penwidth=5]
+	aunetunfontsix--aludwigbriand
+	abasicinstinct2--aindiravarma
+	ageratzite--ageorgistamatov
+
+	// Genre edges
+	asoderberghsteven--adocumentary
+	avergnejeanpierre--acomedy
+	asurchadzhievstefani--adrama
+	acatonjonesmichael--amystery
+	aaltmanroberti--athriller
+	akronthalerthomas--acomedy[ penwidth=5]
+	apakulaalanj--athriller
+	ametcalfestephen--aromance
+	aklischstefan--acomedy[ penwidth=5]
+	apakulaalanj--amystery
+	akronthalerthomas--acrime[ penwidth=5]
+	asoderberghsteven--athriller
+	akinkelmartin--acomedy
+	averhoevenpauli--amystery
+	asoderberghsteven--acomedy
+	atraykovatanas--adrama
+	akrgnther--acomedy[ penwidth=5]
+	asoderberghsteven--aaction
+	apunchevborislav--adrama
+	agrimaldiaurelioi--adrama
+	averhoevenpauli--adrama
+	agutjahrrainer--acomedy
+	aapprederisfranck--acomedy
+	asoderberghsteven--acrime
+	abraunbettinai--acomedy
+	amillergeorgei--ascifi
+	aaltmanroberti--acomedy
+	akrgnther--acrime[ penwidth=5]
+	amarinovichanton--adrama
+	acatonjonesmichael--athriller
+	abattiatofranco--adrama
+	acatonjonesmichael--acrime
+	averhoevenpauli--acrime
+	averhoevenpauli--athriller
+	ametcalfestephen--adrama
+	aaltmanroberti--adrama
+	aklischstefan--acrime[ penwidth=5]
+	agutjahrrainer--acrime
+	apakulaalanj--adrama
+	akinkelmartin--acrime
+	azensmichael--acrime
+	aengelhardtwilhelm--acrime
+	acatonjonesmichael--adrama
+	astephanbernhard--acrime[ penwidth=5]
+	ametcalfestephen--acomedy
+	abraunbettinai--acrime
+
+}

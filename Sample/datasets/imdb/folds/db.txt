@@ -1,0 +1,1229 @@
+
+director(asoderberghsteven).
+director(apakulaalanj).
+director(aaltmanroberti).
+director(ametcalfestephen).
+director(averhoevenpauli).
+director(amillergeorgei).
+director(acatonjonesmichael).
+director(akinkelmartin).
+director(akronthalerthomas).
+director(aengelhardtwilhelm).
+director(astephanbernhard).
+director(aromeclaudemichel).
+director(akappesstphane).
+director(aapprederisfranck).
+director(agutjahrrainer).
+director(akrgnther).
+director(abonnetchristiani).
+director(asummereric).
+director(azensmichael).
+director(atonetticlaudio).
+director(avergnejeanpierre).
+director(abraunbettinai).
+director(agustemmanuelii).
+director(aklischstefan).
+director(aladogedominique).
+director(atraykovatanas).
+director(apunchevborislav).
+director(amarinovichanton).
+director(asurchadzhievstefani).
+director(asciveresmarianna).
+director(agrimaldiaurelioi).
+director(abattiatofranco).
+
+actor(aeddiejemison).
+actor(atimothypaulperez).
+actor(acaseyaffleck).
+actor(ajorgerhernandez).
+actor(astanleyanderson).
+actor(atonygoldwyn).
+actor(afrankpatton).
+actor(anicholaswoodeson).
+actor(anelsonpeltz).
+actor(ajohnfinn).
+actor(alorigalinski).
+actor(atimrobbins).
+actor(agretascacchi).
+actor(adontiffany).
+actor(abradpitt).
+actor(ajohnheard).
+actor(aelliottgould).
+actor(aannejacques).
+actor(alylelovett).
+actor(acarolflorence).
+actor(aleahayres).
+actor(arobertculp).
+actor(adinaconnolly).
+actor(aandygarcia).
+actor(adenzelwashington).
+actor(aberniemac).
+actor(acynthiastevenson).
+actor(adeanstockwell).
+actor(aanthonyheald).
+actor(ahumecronyn).
+actor(adinamerrill).
+actor(apetergallagher).
+actor(aangelahall).
+actor(ajohnlithgow).
+actor(ajamessikking).
+actor(alarrysontag).
+actor(avincentdonofrio).
+actor(abrionjames).
+actor(afredward).
+actor(amarkgantt).
+actor(astanleytucci).
+actor(apaullnolan).
+actor(arichardegrant).
+actor(acatherinezetajones).
+actor(asamshepard).
+actor(awhoopigoldberg).
+actor(ajuliaroberts).
+actor(ageorgeclooney).
+actor(adavidsontag).
+actor(awilliamatherton).
+actor(asydneypollack).
+actor(aminianden).
+actor(ascottcaan).
+actor(aceceliaannbirt).
+actor(aedkross).
+actor(amichaeldouglas).
+actor(arobyndouglass).
+actor(alewissmith).
+actor(abillyconnolly).
+actor(adanielvonbargen).
+actor(adenisarndt).
+actor(afloramontgomery).
+actor(asheilapaterson).
+actor(astancollymore).
+actor(abenjaminmouton).
+actor(ajeannetripplehorn).
+actor(aneilmaskell).
+actor(asharonstone).
+actor(aellenthomas).
+actor(adavidarnett).
+actor(ajackmcgee).
+actor(awayneknight).
+actor(ajustinmonjo).
+actor(ajaimzwoolvett).
+actor(atimberrington).
+actor(astephentobolowsky).
+actor(agilbellows).
+actor(adavidthewlis).
+actor(aianholm).
+actor(abenjohnson).
+actor(adannflorek).
+actor(aheathcotewilliams).
+actor(acharlotterampling).
+actor(achelcieross).
+actor(astevekuhn).
+actor(amarksangster).
+actor(aindiravarma).
+actor(ahughkeaysbyrne).
+actor(aginachiarelli).
+actor(abruceayoung).
+actor(adavidmorrissey).
+actor(amiguelferrer).
+actor(adorothymalone).
+actor(ageorgedzundza).
+actor(ahughdancy).
+actor(abillcable).
+actor(amarccaleb).
+actor(afrankcturner).
+actor(aalancpeterson).
+actor(anormanarmour).
+actor(ajurneesmollett).
+actor(ajanchappell).
+actor(agusmercurio).
+actor(acaitlinoheaney).
+actor(aterenceharvey).
+actor(adillonmoen).
+actor(aleilanisarelle).
+actor(alloydalan).
+actor(aconnorwiddows).
+actor(adebraengle).
+actor(avolkerranisch).
+actor(aludwigbriand).
+actor(agerdlohmeyer).
+actor(astevekalfa).
+actor(aguillaumeromain).
+actor(agabriellelazure).
+actor(ahorstkummeth).
+actor(aloccorbery).
+actor(ajuliedray).
+actor(afirminerichard).
+actor(ahubertmulzer).
+actor(asamantharnier).
+actor(atommikulla).
+actor(acoralyzahonero).
+actor(abrnicebejo).
+actor(abrigittefossey).
+actor(amaxmller).
+actor(amarenschumacher).
+actor(avincentlecoeur).
+actor(aestefanacastro).
+actor(ajuttawachowiak).
+actor(aarmelledeutsch).
+actor(athomasstielner).
+actor(afranoisechristophe).
+actor(apierrearditi).
+actor(aclaudiamessner).
+actor(amarisaburger).
+actor(afrancishuster).
+actor(atheresascholze).
+actor(aalexandrawinisky).
+actor(aandreasschwaiger).
+actor(akarinthaler).
+actor(arenateschroeter).
+actor(adidierdijoux).
+actor(agesinecukrowski).
+actor(akonstanzebreitebner).
+actor(amarkusbker).
+actor(ajrggudzuhn).
+actor(adietermann).
+actor(apatricejuiff).
+actor(accilecassel).
+actor(aleonardlansink).
+actor(aulrichmhe).
+actor(aangelinasarova).
+actor(aivankondov).
+actor(akirilyanev).
+actor(astoychomazgalov).
+actor(amikhailmikhajlov).
+actor(aganchoganchev).
+actor(amichalbajor).
+actor(ahristodinev).
+actor(avyarakovacheva).
+actor(apetardespotov).
+actor(asavahashamov).
+actor(alyubomirbobchevski).
+actor(amariashopova).
+actor(akostatsonev).
+actor(astefandanailov).
+actor(aivanbratanov).
+actor(aemiliaradeva).
+actor(ageorgistamatov).
+actor(astefanpejchev).
+actor(adimitarhadzhiyanev).
+actor(ajannowicki).
+actor(aalicjajachiewicz).
+actor(asonyadjulgerova).
+actor(aviktordanchenko).
+actor(akunkabaeva).
+actor(aantonradichev).
+actor(aemilmarkov).
+actor(astefanpetrov).
+actor(atzenokandov).
+actor(alyubomirbachvarov).
+actor(aivandimov).
+actor(aivangrigorov).
+actor(alyubomirkanev).
+actor(atzvetolyubrakovski).
+actor(asotirmaynolovski).
+actor(aivantonev).
+actor(abogomilsimeonov).
+actor(anevenakokanova).
+actor(anikoladadov).
+actor(apetyasilyanova).
+actor(aluciacammalleri).
+actor(agiancarloscuderi).
+actor(araffaeladavi).
+actor(aenzodimartino).
+actor(aconsuelolupo).
+actor(afrancomirabella).
+actor(abiagiobarone).
+actor(acesareapolito).
+actor(astefanodionisi).
+actor(afabiolobello).
+actor(amanueladolcemascolo).
+actor(acorradofortuna).
+actor(aannamariagherardi).
+actor(amarcocavicchioli).
+actor(adonatellafinocchiaro).
+actor(adanielegalea).
+actor(apaolaciampi).
+actor(amanliosgalambro).
+actor(agabrieleferzetti).
+actor(aantoniettacarbonetti).
+actor(aantoninobruschetta).
+actor(amaurizionicolosi).
+actor(amaurolenares).
+actor(asalvatorelazzaro).
+actor(apieradegliesposti).
+actor(amarcoleonardi).
+actor(aserenaautieri).
+actor(aradarassimov).
+actor(aileanarigano).
+actor(avincenzocrivello).
+actor(amarcospicuglia).
+actor(asaromiano).
+actor(atizianalodato).
+actor(anicolegrimaudo).
+actor(alaurabetti).
+actor(aluciasardo).
+actor(acarmelogalati).
+actor(avannifois).
+actor(aauroraquattrocchi).
+actor(abarbaratabita).
+actor(alucavitrano).
+actor(apenlopecruz).
+actor(aeddasabatini).
+
+movie(aoceanstwelve, anelsonpeltz).
+movie(aplayerthe, awhoopigoldberg).
+movie(apelicanbriefthe, ajuliaroberts).
+movie(aoceanstwelve, ajuliaroberts).
+movie(aplayerthe, avincentdonofrio).
+movie(aplayerthe, apetergallagher).
+movie(aoceanseleven, amarkgantt).
+movie(aplayerthe, afredward).
+movie(aoceanseleven, acaseyaffleck).
+movie(apelicanbriefthe, astanleyanderson).
+movie(apelicanbriefthe, ahumecronyn).
+movie(aoceanseleven, acarolflorence).
+movie(apelicanbriefthe, awilliamatherton).
+movie(apelicanbriefthe, anicholaswoodeson).
+movie(aoceanstwelve, adavidsontag).
+movie(apelicanbriefthe, ajamessikking).
+movie(apelicanbriefthe, adenzelwashington).
+movie(aoceanstwelve, aandygarcia).
+movie(aoceanstwelve, asoderberghsteven).
+movie(aplayerthe, acynthiastevenson).
+movie(apelicanbriefthe, ajohnlithgow).
+movie(aoceanseleven, aceceliaannbirt).
+movie(aoceanstwelve, aminianden).
+movie(aoceanseleven, aeddiejemison).
+movie(aoceanstwelve, aannejacques).
+movie(aplayerthe, aleahayres).
+movie(aoceanseleven, abradpitt).
+movie(aoceanstwelve, ageorgeclooney).
+movie(aoceanseleven, ageorgeclooney).
+movie(aplayerthe, asydneypollack).
+movie(aoceanstwelve, abradpitt).
+movie(aplayerthe, alylelovett).
+movie(aoceanseleven, ascottcaan).
+movie(aoceanstwelve, acaseyaffleck).
+movie(aoceanstwelve, aedkross).
+movie(aoceanstwelve, adinaconnolly).
+movie(apelicanbriefthe, atonygoldwyn).
+movie(apelicanbriefthe, apakulaalanj).
+movie(aplayerthe, arichardegrant).
+movie(aoceanstwelve, ascottcaan).
+movie(apelicanbriefthe, ajohnfinn).
+movie(aoceanseleven, asoderberghsteven).
+movie(aplayerthe, adinamerrill).
+movie(aoceanseleven, aberniemac).
+movie(aplayerthe, atimrobbins).
+movie(apelicanbriefthe, asamshepard).
+movie(aplayerthe, adeanstockwell).
+movie(aplayerthe, agretascacchi).
+movie(apelicanbriefthe, arobertculp).
+movie(apelicanbriefthe, ajohnheard).
+movie(aoceanstwelve, acatherinezetajones).
+movie(apelicanbriefthe, aanthonyheald).
+movie(aoceanseleven, apaullnolan).
+movie(aoceanstwelve, adontiffany).
+movie(aoceanstwelve, alarrysontag).
+movie(aplayerthe, abrionjames).
+movie(aoceanseleven, aelliottgould).
+movie(apelicanbriefthe, astanleytucci).
+movie(aoceanseleven, afrankpatton).
+movie(aoceanseleven, atimothypaulperez).
+movie(aoceanseleven, alorigalinski).
+movie(aplayerthe, aangelahall).
+movie(aplayerthe, aaltmanroberti).
+movie(aoceanseleven, ajorgerhernandez).
+movie(abeautifuljoe, asheilapaterson).
+movie(abasicinstinct2, aterenceharvey).
+movie(abasicinstinct2, adavidthewlis).
+movie(abasicinstinct, achelcieross).
+movie(abasicinstinct, abruceayoung).
+movie(abadlands2005, agusmercurio).
+movie(abasicinstinct, adanielvonbargen).
+movie(abadlands2005, adavidarnett).
+movie(abeautifuljoe, anormanarmour).
+movie(abasicinstinct, adenisarndt).
+movie(abasicinstinct, adorothymalone).
+movie(abasicinstinct, ajeannetripplehorn).
+movie(abasicinstinct2, adavidmorrissey).
+movie(abeautifuljoe, aianholm).
+movie(abasicinstinct, averhoevenpauli).
+movie(abadlands2005, alewissmith).
+movie(abadlands2005, amiguelferrer).
+movie(abeautifuljoe, afrankcturner).
+movie(abasicinstinct2, astancollymore).
+movie(abasicinstinct2, atimberrington).
+movie(abeautifuljoe, ametcalfestephen).
+movie(abasicinstinct, awayneknight).
+movie(abadlands2005, adebraengle).
+movie(abeautifuljoe, agilbellows).
+movie(abasicinstinct2, amarksangster).
+movie(abasicinstinct2, asharonstone).
+movie(abadlands2005, alloydalan).
+movie(abasicinstinct2, aindiravarma).
+movie(abasicinstinct2, acatonjonesmichael).
+movie(abeautifuljoe, adillonmoen).
+movie(abasicinstinct, aleilanisarelle).
+movie(abadlands2005, arobyndouglass).
+movie(abeautifuljoe, adannflorek).
+movie(abeautifuljoe, aginachiarelli).
+movie(abeautifuljoe, asharonstone).
+movie(abasicinstinct2, acharlotterampling).
+movie(abasicinstinct2, aellenthomas).
+movie(abasicinstinct2, ajanchappell).
+movie(abasicinstinct2, aneilmaskell).
+movie(abeautifuljoe, aconnorwiddows).
+movie(abasicinstinct, ageorgedzundza).
+movie(abadlands2005, asharonstone).
+movie(abasicinstinct, abillcable).
+movie(abasicinstinct, asharonstone).
+movie(abadlands2005, astevekuhn).
+movie(abasicinstinct, astephentobolowsky).
+movie(abeautifuljoe, abenjohnson).
+movie(abasicinstinct2, aheathcotewilliams).
+movie(abasicinstinct, ajackmcgee).
+movie(abeautifuljoe, abillyconnolly).
+movie(abeautifuljoe, ajurneesmollett).
+movie(abasicinstinct, amichaeldouglas).
+movie(abadlands2005, ajustinmonjo).
+movie(abadlands2005, amarccaleb).
+movie(abeautifuljoe, aalancpeterson).
+movie(abeautifuljoe, ajaimzwoolvett).
+movie(abadlands2005, ahughkeaysbyrne).
+movie(abasicinstinct, abenjaminmouton).
+movie(abasicinstinct2, afloramontgomery).
+movie(abasicinstinct2, ahughdancy).
+movie(abadlands2005, acaitlinoheaney).
+movie(abadlands2005, amillergeorgei).
+movie(aunetunfontsix, apierrearditi).
+movie(aletztezeugeder, agesinecukrowski).
+movie(agrandpatronle, akappesstphane).
+movie(aunetunfontsix, aludwigbriand).
+movie(arosenheimcopsdie, akarinthaler).
+movie(aletztezeugeder, aandreasschwaiger).
+movie(aunetunfontsix, abrnicebejo).
+movie(agrandpatronle, aromeclaudemichel).
+movie(arosenheimcopsdie, amarenschumacher).
+movie(agrandpatronle, agustemmanuelii).
+movie(arosenheimcopsdie, agerdlohmeyer).
+movie(aunetunfontsix, apatricejuiff).
+movie(aunetunfontsix, aalexandrawinisky).
+movie(arosenheimcopsdie, amaxmller).
+movie(arosenheimcopsdie, amarisaburger).
+movie(aletztezeugeder, atheresascholze).
+movie(agrandpatronle, agabriellelazure).
+movie(agrandpatronle, atonetticlaudio).
+movie(aletztezeugeder, ajrggudzuhn).
+movie(aletztezeugeder, aulrichmhe).
+movie(aletztezeugeder, astephanbernhard).
+movie(aunetunfontsix, adidierdijoux).
+movie(arosenheimcopsdie, abraunbettinai).
+movie(aletztezeugeder, adietermann).
+movie(agrandpatronle, asummereric).
+movie(agrandpatronle, accilecassel).
+movie(aunetunfontsix, aestefanacastro).
+movie(agrandpatronle, astevekalfa).
+movie(arosenheimcopsdie, akinkelmartin).
+movie(aunetunfontsix, ajuliedray).
+movie(arosenheimcopsdie, ahubertmulzer).
+movie(aletztezeugeder, arenateschroeter).
+movie(agrandpatronle, afranoisechristophe).
+movie(aunetunfontsix, asamantharnier).
+movie(aunetunfontsix, aloccorbery).
+movie(arosenheimcopsdie, akronthalerthomas).
+movie(agrandpatronle, afrancishuster).
+movie(agrandpatronle, afirminerichard).
+movie(aunetunfontsix, avergnejeanpierre).
+movie(arosenheimcopsdie, amarkusbker).
+movie(aletztezeugeder, azensmichael).
+movie(arosenheimcopsdie, agutjahrrainer).
+movie(arosenheimcopsdie, aklischstefan).
+movie(aletztezeugeder, ajuttawachowiak).
+movie(agrandpatronle, acoralyzahonero).
+movie(aunetunfontsix, aguillaumeromain).
+movie(aletztezeugeder, aleonardlansink).
+movie(aunetunfontsix, abrigittefossey).
+movie(arosenheimcopsdie, aandreasschwaiger).
+movie(aletztezeugeder, aclaudiamessner).
+movie(arosenheimcopsdie, aengelhardtwilhelm).
+movie(arosenheimcopsdie, akrgnther).
+movie(agrandpatronle, aladogedominique).
+movie(aunetunfontsix, avincentlecoeur).
+movie(aunetunfontsix, aarmelledeutsch).
+movie(arosenheimcopsdie, ahorstkummeth).
+movie(arosenheimcopsdie, atommikulla).
+movie(agrandpatronle, abonnetchristiani).
+movie(aletztezeugeder, avolkerranisch).
+movie(arosenheimcopsdie, athomasstielner).
+movie(aletztezeugeder, akonstanzebreitebner).
+movie(aunetunfontsix, aapprederisfranck).
+movie(ageratzite, aangelinasarova).
+movie(aspasenieto, alyubomirbachvarov).
+movie(aspasenieto, abogomilsimeonov).
+movie(aspasenieto, ajannowicki).
+movie(akristali, apetyasilyanova).
+movie(aspasenieto, amichalbajor).
+movie(ageratzite, aivanbratanov).
+movie(akristali, anevenakokanova).
+movie(aspasenieto, aantonradichev).
+movie(ageratzite, aivandimov).
+movie(akristali, asonyadjulgerova).
+movie(alegendazapaisiy, akirilyanev).
+movie(alegendazapaisiy, asurchadzhievstefani).
+movie(alegendazapaisiy, atzenokandov).
+movie(akristali, adimitarhadzhiyanev).
+movie(akristali, astefandanailov).
+movie(ageratzite, astefanpetrov).
+movie(aspasenieto, astoychomazgalov).
+movie(ageratzite, ageorgistamatov).
+movie(aspasenieto, apunchevborislav).
+movie(aspasenieto, aalicjajachiewicz).
+movie(ageratzite, amariashopova).
+movie(ageratzite, atzvetolyubrakovski).
+movie(alegendazapaisiy, aivankondov).
+movie(ageratzite, astefanpejchev).
+movie(ageratzite, amarinovichanton).
+movie(aspasenieto, asotirmaynolovski).
+movie(ageratzite, aganchoganchev).
+movie(alegendazapaisiy, amikhailmikhajlov).
+movie(ageratzite, aivantonev).
+movie(alegendazapaisiy, alyubomirbobchevski).
+movie(aspasenieto, alyubomirkanev).
+movie(aspasenieto, akostatsonev).
+movie(akristali, aemiliaradeva).
+movie(alegendazapaisiy, aviktordanchenko).
+movie(ageratzite, anikoladadov).
+movie(akristali, astoychomazgalov).
+movie(alegendazapaisiy, asavahashamov).
+movie(aspasenieto, aemilmarkov).
+movie(aspasenieto, anevenakokanova).
+movie(alegendazapaisiy, aangelinasarova).
+movie(alegendazapaisiy, astoychomazgalov).
+movie(ageratzite, avyarakovacheva).
+movie(akristali, atraykovatanas).
+movie(alegendazapaisiy, ahristodinev).
+movie(akristali, akostatsonev).
+movie(akristali, aivangrigorov).
+movie(ageratzite, akunkabaeva).
+movie(akristali, apetardespotov).
+movie(anerolio, aantoniettacarbonetti).
+movie(aribellela, apenlopecruz).
+movie(aperdutoamor, aluciasardo).
+movie(aribellela, adanielegalea).
+movie(aperdutoamor, abattiatofranco).
+movie(anerolio, afabiolobello).
+movie(asaramay, aluciasardo).
+movie(anerolio, aluciasardo).
+movie(anerolio, amaurizionicolosi).
+movie(aribellela, aeddasabatini).
+movie(aperdutoamor, aradarassimov).
+movie(aperdutoamor, adonatellafinocchiaro).
+movie(asaramay, aileanarigano).
+movie(aribellela, apaolaciampi).
+movie(asaramay, acarmelogalati).
+movie(aperdutoamor, atizianalodato).
+movie(aperdutoamor, agabrieleferzetti).
+movie(anerolio, apieradegliesposti).
+movie(aribellela, aauroraquattrocchi).
+movie(aperdutoamor, acorradofortuna).
+movie(aribellela, alaurabetti).
+movie(anerolio, aenzodimartino).
+movie(asaramay, abiagiobarone).
+movie(aribellela, acesareapolito).
+movie(anerolio, amarcospicuglia).
+movie(asaramay, asciveresmarianna).
+movie(asaramay, aluciacammalleri).
+movie(aribellela, araffaeladavi).
+movie(aperdutoamor, alucavitrano).
+movie(asaramay, aserenaautieri).
+movie(anerolio, asaromiano).
+movie(asaramay, amanueladolcemascolo).
+movie(anerolio, amaurolenares).
+movie(asaramay, aconsuelolupo).
+movie(asaramay, avannifois).
+movie(aribellela, amarcoleonardi).
+movie(aperdutoamor, aannamariagherardi).
+movie(asaramay, abarbaratabita).
+movie(anerolio, amarcocavicchioli).
+movie(anerolio, agiancarloscuderi).
+movie(aribellela, astefanodionisi).
+movie(anerolio, asalvatorelazzaro).
+movie(aperdutoamor, amanliosgalambro).
+movie(aperdutoamor, anicolegrimaudo).
+movie(anerolio, agrimaldiaurelioi).
+movie(aperdutoamor, aantoninobruschetta).
+movie(anerolio, avincenzocrivello).
+movie(aribellela, agrimaldiaurelioi).
+movie(anerolio, afrancomirabella).
+
+gender(ahumecronyn, male).
+gender(asamshepard, male).
+gender(atimrobbins, male).
+gender(adavidsontag, male).
+gender(arobertculp, male).
+gender(acynthiastevenson, female).
+gender(afredward, male).
+gender(adinamerrill, female).
+gender(abradpitt, male).
+gender(adontiffany, male).
+gender(aangelahall, female).
+gender(apaullnolan, female).
+gender(aleahayres, female).
+gender(asydneypollack, male).
+gender(ajamessikking, male).
+gender(alorigalinski, female).
+gender(ajuliaroberts, female).
+gender(awilliamatherton, male).
+gender(atonygoldwyn, male).
+gender(anelsonpeltz, male).
+gender(adenzelwashington, male).
+gender(astanleyanderson, male).
+gender(ajuliaroberts, male).
+gender(afrankpatton, female).
+gender(ajohnheard, male).
+gender(aberniemac, female).
+gender(aelliottgould, female).
+gender(ascottcaan, female).
+gender(adeanstockwell, male).
+gender(anicholaswoodeson, male).
+gender(aanthonyheald, male).
+gender(acaseyaffleck, female).
+gender(aedkross, male).
+gender(agretascacchi, female).
+gender(apetergallagher, male).
+gender(ascottcaan, male).
+gender(aminianden, female).
+gender(aceceliaannbirt, female).
+gender(abradpitt, female).
+gender(atimothypaulperez, female).
+gender(abrionjames, male).
+gender(ajorgerhernandez, female).
+gender(aandygarcia, male).
+gender(astanleytucci, male).
+gender(ageorgeclooney, female).
+gender(alarrysontag, male).
+gender(amarkgantt, female).
+gender(ajohnlithgow, male).
+gender(avincentdonofrio, male).
+gender(awhoopigoldberg, female).
+gender(acarolflorence, female).
+gender(acaseyaffleck, male).
+gender(aeddiejemison, female).
+gender(arichardegrant, male).
+gender(acatherinezetajones, female).
+gender(aannejacques, female).
+gender(adinaconnolly, female).
+gender(ajohnfinn, male).
+gender(ageorgeclooney, male).
+gender(alylelovett, male).
+gender(aterenceharvey, male).
+gender(ajanchappell, female).
+gender(amarccaleb, male).
+gender(amarksangster, female).
+gender(ajackmcgee, male).
+gender(astevekuhn, male).
+gender(aginachiarelli, female).
+gender(alewissmith, male).
+gender(adavidarnett, male).
+gender(abruceayoung, male).
+gender(acaitlinoheaney, female).
+gender(asheilapaterson, female).
+gender(adanielvonbargen, male).
+gender(adavidthewlis, male).
+gender(adebraengle, female).
+gender(aconnorwiddows, male).
+gender(awayneknight, male).
+gender(aianholm, male).
+gender(achelcieross, female).
+gender(adenisarndt, male).
+gender(aindiravarma, male).
+gender(aellenthomas, female).
+gender(acharlotterampling, female).
+gender(ajurneesmollett, female).
+gender(aheathcotewilliams, male).
+gender(abillcable, male).
+gender(adillonmoen, male).
+gender(aalancpeterson, male).
+gender(abillyconnolly, male).
+gender(ageorgedzundza, male).
+gender(ahughdancy, male).
+gender(adannflorek, male).
+gender(adorothymalone, female).
+gender(atimberrington, female).
+gender(agusmercurio, male).
+gender(abenjohnson, male).
+gender(adavidmorrissey, male).
+gender(ahughkeaysbyrne, male).
+gender(ajeannetripplehorn, female).
+gender(arobyndouglass, female).
+gender(afrankcturner, male).
+gender(amichaeldouglas, male).
+gender(astephentobolowsky, male).
+gender(abenjaminmouton, male).
+gender(ajaimzwoolvett, male).
+gender(afloramontgomery, female).
+gender(astancollymore, male).
+gender(aneilmaskell, male).
+gender(ajustinmonjo, male).
+gender(anormanarmour, male).
+gender(agilbellows, male).
+gender(asharonstone, female).
+gender(alloydalan, male).
+gender(aleilanisarelle, female).
+gender(amiguelferrer, male).
+gender(arenateschroeter, female).
+gender(abrigittefossey, female).
+gender(adietermann, male).
+gender(amarisaburger, female).
+gender(afranoisechristophe, female).
+gender(aarmelledeutsch, female).
+gender(acoralyzahonero, female).
+gender(akarinthaler, female).
+gender(ajuliedray, female).
+gender(aludwigbriand, male).
+gender(avolkerranisch, male).
+gender(ahorstkummeth, male).
+gender(abrnicebejo, female).
+gender(amarenschumacher, female).
+gender(atommikulla, male).
+gender(aulrichmhe, male).
+gender(aleonardlansink, male).
+gender(asamantharnier, female).
+gender(ajrggudzuhn, male).
+gender(aandreasschwaiger, male).
+gender(astevekalfa, male).
+gender(amaxmller, male).
+gender(agerdlohmeyer, male).
+gender(apierrearditi, male).
+gender(aestefanacastro, female).
+gender(aclaudiamessner, female).
+gender(agabriellelazure, female).
+gender(akonstanzebreitebner, female).
+gender(aguillaumeromain, male).
+gender(avincentlecoeur, male).
+gender(ahubertmulzer, male).
+gender(aloccorbery, male).
+gender(aalexandrawinisky, female).
+gender(accilecassel, female).
+gender(athomasstielner, male).
+gender(afirminerichard, female).
+gender(atheresascholze, female).
+gender(agesinecukrowski, female).
+gender(ajuttawachowiak, female).
+gender(amarkusbker, male).
+gender(adidierdijoux, male).
+gender(afrancishuster, female).
+gender(apatricejuiff, male).
+gender(aemilmarkov, male).
+gender(asotirmaynolovski, male).
+gender(anikoladadov, male).
+gender(ajannowicki, male).
+gender(atzvetolyubrakovski, male).
+gender(akunkabaeva, female).
+gender(aalicjajachiewicz, female).
+gender(astefanpetrov, male).
+gender(astoychomazgalov, male).
+gender(avyarakovacheva, female).
+gender(astefanpejchev, male).
+gender(alyubomirbobchevski, male).
+gender(astefandanailov, male).
+gender(aivankondov, male).
+gender(asonyadjulgerova, female).
+gender(alyubomirkanev, male).
+gender(aviktordanchenko, male).
+gender(aemiliaradeva, female).
+gender(apetardespotov, male).
+gender(aivantonev, male).
+gender(aangelinasarova, female).
+gender(aivangrigorov, male).
+gender(aganchoganchev, male).
+gender(aivanbratanov, male).
+gender(akostatsonev, male).
+gender(adimitarhadzhiyanev, male).
+gender(amichalbajor, male).
+gender(aivandimov, male).
+gender(atzenokandov, male).
+gender(aantonradichev, male).
+gender(akirilyanev, male).
+gender(amikhailmikhajlov, male).
+gender(alyubomirbachvarov, male).
+gender(ageorgistamatov, male).
+gender(anevenakokanova, female).
+gender(ahristodinev, male).
+gender(amariashopova, female).
+gender(abogomilsimeonov, male).
+gender(asavahashamov, male).
+gender(apetyasilyanova, female).
+gender(aluciasardo, female).
+gender(asaromiano, male).
+gender(astefanodionisi, male).
+gender(amarcocavicchioli, male).
+gender(apenlopecruz, female).
+gender(asalvatorelazzaro, male).
+gender(amaurizionicolosi, male).
+gender(abarbaratabita, female).
+gender(abiagiobarone, male).
+gender(avincenzocrivello, male).
+gender(aserenaautieri, female).
+gender(aauroraquattrocchi, female).
+gender(acorradofortuna, male).
+gender(aileanarigano, female).
+gender(apaolaciampi, female).
+gender(afrancomirabella, female).
+gender(afabiolobello, male).
+gender(aannamariagherardi, female).
+gender(apieradegliesposti, female).
+gender(aluciacammalleri, female).
+gender(adanielegalea, male).
+gender(amaurolenares, male).
+gender(aantoniettacarbonetti, female).
+gender(alaurabetti, female).
+gender(amanueladolcemascolo, female).
+gender(adonatellafinocchiaro, female).
+gender(amanliosgalambro, male).
+gender(aeddasabatini, female).
+gender(araffaeladavi, female).
+gender(acesareapolito, male).
+gender(acarmelogalati, male).
+gender(atizianalodato, female).
+gender(anicolegrimaudo, female).
+gender(amarcospicuglia, male).
+gender(amarcoleonardi, male).
+gender(alucavitrano, male).
+gender(aconsuelolupo, male).
+gender(avannifois, male).
+gender(aradarassimov, female).
+gender(aantoninobruschetta, male).
+gender(agabrieleferzetti, female).
+gender(agiancarloscuderi, male).
+gender(aenzodimartino, male).
+
+genre(apakulaalanj, athriller).
+genre(aaltmanroberti, acomedy).
+genre(asoderberghsteven, adocumentary).
+genre(asoderberghsteven, acomedy).
+genre(asoderberghsteven, athriller).
+genre(asoderberghsteven, aaction).
+genre(aaltmanroberti, athriller).
+genre(asoderberghsteven, acrime).
+genre(apakulaalanj, adrama).
+genre(apakulaalanj, amystery).
+genre(aaltmanroberti, adrama).
+genre(amillergeorgei, ascifi).
+genre(averhoevenpauli, athriller).
+genre(ametcalfestephen, adrama).
+genre(acatonjonesmichael, athriller).
+genre(averhoevenpauli, adrama).
+genre(averhoevenpauli, acrime).
+genre(acatonjonesmichael, adrama).
+genre(ametcalfestephen, acomedy).
+genre(acatonjonesmichael, amystery).
+genre(ametcalfestephen, aromance).
+genre(acatonjonesmichael, acrime).
+genre(averhoevenpauli, amystery).
+genre(abraunbettinai, acomedy).
+genre(aklischstefan, acrime).
+genre(agutjahrrainer, acomedy).
+genre(akronthalerthomas, acrime).
+genre(aapprederisfranck, acomedy).
+genre(azensmichael, acrime).
+genre(akinkelmartin, acomedy).
+genre(aklischstefan, acomedy).
+genre(astephanbernhard, acrime).
+genre(akinkelmartin, acrime).
+genre(akronthalerthomas, acomedy).
+genre(avergnejeanpierre, acomedy).
+genre(abraunbettinai, acrime).
+genre(agutjahrrainer, acrime).
+genre(akrgnther, acomedy).
+genre(aengelhardtwilhelm, acrime).
+genre(akrgnther, acrime).
+genre(amarinovichanton, adrama).
+genre(asurchadzhievstefani, adrama).
+genre(apunchevborislav, adrama).
+genre(atraykovatanas, adrama).
+genre(agrimaldiaurelioi, adrama).
+genre(abattiatofranco, adrama).
+
+workedunder(aminianden, asoderberghsteven).
+workedunder(acaseyaffleck, asoderberghsteven).
+workedunder(aelliottgould, asoderberghsteven).
+workedunder(adenzelwashington, apakulaalanj).
+workedunder(alylelovett, aaltmanroberti).
+workedunder(awhoopigoldberg, aaltmanroberti).
+workedunder(awilliamatherton, apakulaalanj).
+workedunder(anelsonpeltz, asoderberghsteven).
+workedunder(alorigalinski, asoderberghsteven).
+workedunder(astanleyanderson, apakulaalanj).
+workedunder(agretascacchi, aaltmanroberti).
+workedunder(apaullnolan, asoderberghsteven).
+workedunder(ahumecronyn, apakulaalanj).
+workedunder(ascottcaan, asoderberghsteven).
+workedunder(asamshepard, apakulaalanj).
+workedunder(aannejacques, asoderberghsteven).
+workedunder(amarkgantt, asoderberghsteven).
+workedunder(astanleytucci, apakulaalanj).
+workedunder(adeanstockwell, aaltmanroberti).
+workedunder(arobertculp, apakulaalanj).
+workedunder(aeddiejemison, asoderberghsteven).
+workedunder(aberniemac, asoderberghsteven).
+workedunder(ajohnlithgow, apakulaalanj).
+workedunder(ageorgeclooney, asoderberghsteven).
+workedunder(ajorgerhernandez, asoderberghsteven).
+workedunder(avincentdonofrio, aaltmanroberti).
+workedunder(adinamerrill, aaltmanroberti).
+workedunder(adavidsontag, asoderberghsteven).
+workedunder(arichardegrant, aaltmanroberti).
+workedunder(abrionjames, aaltmanroberti).
+workedunder(ajohnfinn, apakulaalanj).
+workedunder(acarolflorence, asoderberghsteven).
+workedunder(aanthonyheald, apakulaalanj).
+workedunder(acatherinezetajones, asoderberghsteven).
+workedunder(adinaconnolly, asoderberghsteven).
+workedunder(atonygoldwyn, apakulaalanj).
+workedunder(afredward, aaltmanroberti).
+workedunder(aceceliaannbirt, asoderberghsteven).
+workedunder(apetergallagher, aaltmanroberti).
+workedunder(aleahayres, aaltmanroberti).
+workedunder(atimothypaulperez, asoderberghsteven).
+workedunder(abradpitt, asoderberghsteven).
+workedunder(ajohnheard, apakulaalanj).
+workedunder(ajamessikking, apakulaalanj).
+workedunder(acynthiastevenson, aaltmanroberti).
+workedunder(ajuliaroberts, apakulaalanj).
+workedunder(atimrobbins, aaltmanroberti).
+workedunder(asydneypollack, aaltmanroberti).
+workedunder(afrankpatton, asoderberghsteven).
+workedunder(aangelahall, aaltmanroberti).
+workedunder(adontiffany, asoderberghsteven).
+workedunder(aedkross, asoderberghsteven).
+workedunder(aandygarcia, asoderberghsteven).
+workedunder(anicholaswoodeson, apakulaalanj).
+workedunder(ajuliaroberts, asoderberghsteven).
+workedunder(alarrysontag, asoderberghsteven).
+workedunder(ajurneesmollett, ametcalfestephen).
+workedunder(aterenceharvey, acatonjonesmichael).
+workedunder(achelcieross, averhoevenpauli).
+workedunder(afrankcturner, ametcalfestephen).
+workedunder(awayneknight, averhoevenpauli).
+workedunder(astevekuhn, amillergeorgei).
+workedunder(astancollymore, acatonjonesmichael).
+workedunder(asharonstone, acatonjonesmichael).
+workedunder(abenjohnson, ametcalfestephen).
+workedunder(adebraengle, amillergeorgei).
+workedunder(aheathcotewilliams, acatonjonesmichael).
+workedunder(adorothymalone, averhoevenpauli).
+workedunder(afloramontgomery, acatonjonesmichael).
+workedunder(abenjaminmouton, averhoevenpauli).
+workedunder(ajustinmonjo, amillergeorgei).
+workedunder(ahughdancy, acatonjonesmichael).
+workedunder(amiguelferrer, amillergeorgei).
+workedunder(aianholm, ametcalfestephen).
+workedunder(alewissmith, amillergeorgei).
+workedunder(arobyndouglass, amillergeorgei).
+workedunder(amarccaleb, amillergeorgei).
+workedunder(astephentobolowsky, averhoevenpauli).
+workedunder(aindiravarma, acatonjonesmichael).
+workedunder(abruceayoung, averhoevenpauli).
+workedunder(aginachiarelli, ametcalfestephen).
+workedunder(adillonmoen, ametcalfestephen).
+workedunder(ajanchappell, acatonjonesmichael).
+workedunder(asharonstone, amillergeorgei).
+workedunder(anormanarmour, ametcalfestephen).
+workedunder(aalancpeterson, ametcalfestephen).
+workedunder(ajackmcgee, averhoevenpauli).
+workedunder(ajaimzwoolvett, ametcalfestephen).
+workedunder(ahughkeaysbyrne, amillergeorgei).
+workedunder(aconnorwiddows, ametcalfestephen).
+workedunder(adenisarndt, averhoevenpauli).
+workedunder(abillcable, averhoevenpauli).
+workedunder(acharlotterampling, acatonjonesmichael).
+workedunder(asharonstone, ametcalfestephen).
+workedunder(aneilmaskell, acatonjonesmichael).
+workedunder(adavidarnett, amillergeorgei).
+workedunder(adavidmorrissey, acatonjonesmichael).
+workedunder(aellenthomas, acatonjonesmichael).
+workedunder(adannflorek, ametcalfestephen).
+workedunder(amarksangster, acatonjonesmichael).
+workedunder(atimberrington, acatonjonesmichael).
+workedunder(alloydalan, amillergeorgei).
+workedunder(acaitlinoheaney, amillergeorgei).
+workedunder(amichaeldouglas, averhoevenpauli).
+workedunder(adavidthewlis, acatonjonesmichael).
+workedunder(asheilapaterson, ametcalfestephen).
+workedunder(agilbellows, ametcalfestephen).
+workedunder(abillyconnolly, ametcalfestephen).
+workedunder(ajeannetripplehorn, averhoevenpauli).
+workedunder(agusmercurio, amillergeorgei).
+workedunder(adanielvonbargen, averhoevenpauli).
+workedunder(aleilanisarelle, averhoevenpauli).
+workedunder(asharonstone, averhoevenpauli).
+workedunder(ageorgedzundza, averhoevenpauli).
+workedunder(amaxmller, akinkelmartin).
+workedunder(athomasstielner, akinkelmartin).
+workedunder(amaxmller, agutjahrrainer).
+workedunder(amarisaburger, aklischstefan).
+workedunder(ahorstkummeth, akronthalerthomas).
+workedunder(afrancishuster, asummereric).
+workedunder(aguillaumeromain, aapprederisfranck).
+workedunder(akarinthaler, aengelhardtwilhelm).
+workedunder(astevekalfa, abonnetchristiani).
+workedunder(akarinthaler, akronthalerthomas).
+workedunder(ajuliedray, aapprederisfranck).
+workedunder(aalexandrawinisky, aapprederisfranck).
+workedunder(amarkusbker, aklischstefan).
+workedunder(amaxmller, abraunbettinai).
+workedunder(ajrggudzuhn, astephanbernhard).
+workedunder(amarisaburger, aengelhardtwilhelm).
+workedunder(agabriellelazure, atonetticlaudio).
+workedunder(ahorstkummeth, agutjahrrainer).
+workedunder(atommikulla, aklischstefan).
+workedunder(afrancishuster, abonnetchristiani).
+workedunder(adidierdijoux, avergnejeanpierre).
+workedunder(aestefanacastro, aapprederisfranck).
+workedunder(apierrearditi, avergnejeanpierre).
+workedunder(abrigittefossey, aapprederisfranck).
+workedunder(agerdlohmeyer, akrgnther).
+workedunder(aandreasschwaiger, akronthalerthomas).
+workedunder(amarenschumacher, agutjahrrainer).
+workedunder(acoralyzahonero, agustemmanuelii).
+workedunder(apatricejuiff, avergnejeanpierre).
+workedunder(athomasstielner, aklischstefan).
+workedunder(acoralyzahonero, atonetticlaudio).
+workedunder(ahorstkummeth, aklischstefan).
+workedunder(amarisaburger, akronthalerthomas).
+workedunder(aandreasschwaiger, agutjahrrainer).
+workedunder(accilecassel, abonnetchristiani).
+workedunder(aclaudiamessner, astephanbernhard).
+workedunder(akarinthaler, akinkelmartin).
+workedunder(aleonardlansink, astephanbernhard).
+workedunder(adietermann, astephanbernhard).
+workedunder(akarinthaler, akrgnther).
+workedunder(amaxmller, aklischstefan).
+workedunder(ahorstkummeth, akinkelmartin).
+workedunder(amarenschumacher, aengelhardtwilhelm).
+workedunder(acoralyzahonero, aladogedominique).
+workedunder(amarkusbker, akronthalerthomas).
+workedunder(accilecassel, asummereric).
+workedunder(aestefanacastro, avergnejeanpierre).
+workedunder(aulrichmhe, astephanbernhard).
+workedunder(amarkusbker, agutjahrrainer).
+workedunder(aandreasschwaiger, aengelhardtwilhelm).
+workedunder(athomasstielner, agutjahrrainer).
+workedunder(avolkerranisch, azensmichael).
+workedunder(ahubertmulzer, akronthalerthomas).
+workedunder(arenateschroeter, azensmichael).
+workedunder(acoralyzahonero, aromeclaudemichel).
+workedunder(accilecassel, aromeclaudemichel).
+workedunder(aarmelledeutsch, aapprederisfranck).
+workedunder(ahubertmulzer, akinkelmartin).
+workedunder(acoralyzahonero, asummereric).
+workedunder(afirminerichard, abonnetchristiani).
+workedunder(amarisaburger, agutjahrrainer).
+workedunder(aandreasschwaiger, akrgnther).
+workedunder(agesinecukrowski, astephanbernhard).
+workedunder(akonstanzebreitebner, azensmichael).
+workedunder(accilecassel, atonetticlaudio).
+workedunder(afirminerichard, akappesstphane).
+workedunder(atommikulla, agutjahrrainer).
+workedunder(afrancishuster, atonetticlaudio).
+workedunder(abrigittefossey, avergnejeanpierre).
+workedunder(agerdlohmeyer, aengelhardtwilhelm).
+workedunder(afranoisechristophe, abonnetchristiani).
+workedunder(aandreasschwaiger, astephanbernhard).
+workedunder(amaxmller, akrgnther).
+workedunder(afranoisechristophe, akappesstphane).
+workedunder(aludwigbriand, avergnejeanpierre).
+workedunder(agerdlohmeyer, abraunbettinai).
+workedunder(amaxmller, akronthalerthomas).
+workedunder(astevekalfa, atonetticlaudio).
+workedunder(asamantharnier, aapprederisfranck).
+workedunder(athomasstielner, abraunbettinai).
+workedunder(accilecassel, aladogedominique).
+workedunder(ahorstkummeth, aengelhardtwilhelm).
+workedunder(afranoisechristophe, aromeclaudemichel).
+workedunder(abrnicebejo, avergnejeanpierre).
+workedunder(ahubertmulzer, agutjahrrainer).
+workedunder(amarenschumacher, aklischstefan).
+workedunder(aandreasschwaiger, abraunbettinai).
+workedunder(amarenschumacher, abraunbettinai).
+workedunder(amarisaburger, akinkelmartin).
+workedunder(aalexandrawinisky, avergnejeanpierre).
+workedunder(accilecassel, akappesstphane).
+workedunder(athomasstielner, aengelhardtwilhelm).
+workedunder(atommikulla, akronthalerthomas).
+workedunder(amarisaburger, akrgnther).
+workedunder(amarkusbker, aengelhardtwilhelm).
+workedunder(afirminerichard, aromeclaudemichel).
+workedunder(accilecassel, agustemmanuelii).
+workedunder(aguillaumeromain, avergnejeanpierre).
+workedunder(agabriellelazure, abonnetchristiani).
+workedunder(ahubertmulzer, aklischstefan).
+workedunder(astevekalfa, aromeclaudemichel).
+workedunder(abrnicebejo, aapprederisfranck).
+workedunder(ajuttawachowiak, astephanbernhard).
+workedunder(akonstanzebreitebner, astephanbernhard).
+workedunder(ajuttawachowiak, azensmichael).
+workedunder(afranoisechristophe, atonetticlaudio).
+workedunder(afirminerichard, asummereric).
+workedunder(arenateschroeter, astephanbernhard).
+workedunder(afrancishuster, aromeclaudemichel).
+workedunder(amarkusbker, abraunbettinai).
+workedunder(adietermann, azensmichael).
+workedunder(ajuliedray, avergnejeanpierre).
+workedunder(akarinthaler, agutjahrrainer).
+workedunder(athomasstielner, akronthalerthomas).
+workedunder(ahorstkummeth, akrgnther).
+workedunder(agabriellelazure, agustemmanuelii).
+workedunder(afirminerichard, agustemmanuelii).
+workedunder(avolkerranisch, astephanbernhard).
+workedunder(amarkusbker, akinkelmartin).
+workedunder(amarkusbker, akrgnther).
+workedunder(agabriellelazure, aladogedominique).
+workedunder(amarenschumacher, akrgnther).
+workedunder(afrancishuster, agustemmanuelii).
+workedunder(atheresascholze, azensmichael).
+workedunder(aludwigbriand, aapprederisfranck).
+workedunder(ahubertmulzer, aengelhardtwilhelm).
+workedunder(akarinthaler, abraunbettinai).
+workedunder(athomasstielner, akrgnther).
+workedunder(afranoisechristophe, agustemmanuelii).
+workedunder(amarisaburger, abraunbettinai).
+workedunder(adidierdijoux, aapprederisfranck).
+workedunder(apierrearditi, aapprederisfranck).
+workedunder(afrancishuster, aladogedominique).
+workedunder(afranoisechristophe, asummereric).
+workedunder(aarmelledeutsch, avergnejeanpierre).
+workedunder(atommikulla, akrgnther).
+workedunder(ahubertmulzer, abraunbettinai).
+workedunder(aandreasschwaiger, azensmichael).
+workedunder(amaxmller, aengelhardtwilhelm).
+workedunder(amarenschumacher, akronthalerthomas).
+workedunder(asamantharnier, avergnejeanpierre).
+workedunder(ajrggudzuhn, azensmichael).
+workedunder(agerdlohmeyer, aklischstefan).
+workedunder(akarinthaler, aklischstefan).
+workedunder(acoralyzahonero, abonnetchristiani).
+workedunder(agerdlohmeyer, agutjahrrainer).
+workedunder(aulrichmhe, azensmichael).
+workedunder(astevekalfa, agustemmanuelii).
+workedunder(apatricejuiff, aapprederisfranck).
+workedunder(agabriellelazure, aromeclaudemichel).
+workedunder(atommikulla, abraunbettinai).
+workedunder(afrancishuster, akappesstphane).
+workedunder(atheresascholze, astephanbernhard).
+workedunder(aandreasschwaiger, aklischstefan).
+workedunder(atommikulla, aengelhardtwilhelm).
+workedunder(agabriellelazure, akappesstphane).
+workedunder(astevekalfa, akappesstphane).
+workedunder(ahorstkummeth, abraunbettinai).
+workedunder(afirminerichard, atonetticlaudio).
+workedunder(acoralyzahonero, akappesstphane).
+workedunder(atommikulla, akinkelmartin).
+workedunder(aloccorbery, avergnejeanpierre).
+workedunder(afranoisechristophe, aladogedominique).
+workedunder(avincentlecoeur, avergnejeanpierre).
+workedunder(avincentlecoeur, aapprederisfranck).
+workedunder(aloccorbery, aapprederisfranck).
+workedunder(astevekalfa, asummereric).
+workedunder(afirminerichard, aladogedominique).
+workedunder(aclaudiamessner, azensmichael).
+workedunder(agerdlohmeyer, akronthalerthomas).
+workedunder(agerdlohmeyer, akinkelmartin).
+workedunder(agabriellelazure, asummereric).
+workedunder(aleonardlansink, azensmichael).
+workedunder(aandreasschwaiger, akinkelmartin).
+workedunder(amarenschumacher, akinkelmartin).
+workedunder(agesinecukrowski, azensmichael).
+workedunder(ahubertmulzer, akrgnther).
+workedunder(astevekalfa, aladogedominique).
+workedunder(ahristodinev, asurchadzhievstefani).
+workedunder(asavahashamov, asurchadzhievstefani).
+workedunder(aemiliaradeva, atraykovatanas).
+workedunder(akunkabaeva, amarinovichanton).
+workedunder(astefanpetrov, amarinovichanton).
+workedunder(aganchoganchev, amarinovichanton).
+workedunder(atzenokandov, asurchadzhievstefani).
+workedunder(astefanpejchev, amarinovichanton).
+workedunder(anevenakokanova, atraykovatanas).
+workedunder(aivantonev, amarinovichanton).
+workedunder(asonyadjulgerova, atraykovatanas).
+workedunder(aemilmarkov, apunchevborislav).
+workedunder(akirilyanev, asurchadzhievstefani).
+workedunder(aangelinasarova, asurchadzhievstefani).
+workedunder(adimitarhadzhiyanev, atraykovatanas).
+workedunder(anevenakokanova, apunchevborislav).
+workedunder(aangelinasarova, amarinovichanton).
+workedunder(ajannowicki, apunchevborislav).
+workedunder(avyarakovacheva, amarinovichanton).
+workedunder(akostatsonev, atraykovatanas).
+workedunder(aviktordanchenko, asurchadzhievstefani).
+workedunder(aivandimov, amarinovichanton).
+workedunder(aivanbratanov, amarinovichanton).
+workedunder(astoychomazgalov, atraykovatanas).
+workedunder(aantonradichev, apunchevborislav).
+workedunder(alyubomirbobchevski, asurchadzhievstefani).
+workedunder(amariashopova, amarinovichanton).
+workedunder(ageorgistamatov, amarinovichanton).
+workedunder(astoychomazgalov, apunchevborislav).
+workedunder(amikhailmikhajlov, asurchadzhievstefani).
+workedunder(apetardespotov, atraykovatanas).
+workedunder(asotirmaynolovski, apunchevborislav).
+workedunder(aivangrigorov, atraykovatanas).
+workedunder(astoychomazgalov, asurchadzhievstefani).
+workedunder(abogomilsimeonov, apunchevborislav).
+workedunder(alyubomirkanev, apunchevborislav).
+workedunder(aivankondov, asurchadzhievstefani).
+workedunder(alyubomirbachvarov, apunchevborislav).
+workedunder(astefandanailov, atraykovatanas).
+workedunder(aalicjajachiewicz, apunchevborislav).
+workedunder(anikoladadov, amarinovichanton).
+workedunder(akostatsonev, apunchevborislav).
+workedunder(atzvetolyubrakovski, amarinovichanton).
+workedunder(apetyasilyanova, atraykovatanas).
+workedunder(amichalbajor, apunchevborislav).
+workedunder(avannifois, asciveresmarianna).
+workedunder(aantoninobruschetta, abattiatofranco).
+workedunder(aantoniettacarbonetti, agrimaldiaurelioi).
+workedunder(adonatellafinocchiaro, abattiatofranco).
+workedunder(amanueladolcemascolo, asciveresmarianna).
+workedunder(agabrieleferzetti, abattiatofranco).
+workedunder(amarcocavicchioli, agrimaldiaurelioi).
+workedunder(aluciacammalleri, asciveresmarianna).
+workedunder(aserenaautieri, asciveresmarianna).
+workedunder(aluciasardo, agrimaldiaurelioi).
+workedunder(apieradegliesposti, agrimaldiaurelioi).
+workedunder(apaolaciampi, agrimaldiaurelioi).
+workedunder(adanielegalea, agrimaldiaurelioi).
+workedunder(aileanarigano, asciveresmarianna).
+workedunder(amanliosgalambro, abattiatofranco).
+workedunder(anicolegrimaudo, abattiatofranco).
+workedunder(agiancarloscuderi, agrimaldiaurelioi).
+workedunder(aluciasardo, abattiatofranco).
+workedunder(astefanodionisi, agrimaldiaurelioi).
+workedunder(apenlopecruz, agrimaldiaurelioi).
+workedunder(aradarassimov, abattiatofranco).
+workedunder(aeddasabatini, agrimaldiaurelioi).
+workedunder(acorradofortuna, abattiatofranco).
+workedunder(asalvatorelazzaro, agrimaldiaurelioi).
+workedunder(amarcoleonardi, agrimaldiaurelioi).
+workedunder(aconsuelolupo, asciveresmarianna).
+workedunder(aenzodimartino, agrimaldiaurelioi).
+workedunder(aluciasardo, asciveresmarianna).
+workedunder(acarmelogalati, asciveresmarianna).
+workedunder(aannamariagherardi, abattiatofranco).
+workedunder(avincenzocrivello, agrimaldiaurelioi).
+workedunder(alaurabetti, agrimaldiaurelioi).
+workedunder(abarbaratabita, asciveresmarianna).
+workedunder(aauroraquattrocchi, agrimaldiaurelioi).
+workedunder(acesareapolito, agrimaldiaurelioi).
+workedunder(abiagiobarone, asciveresmarianna).
+workedunder(alucavitrano, abattiatofranco).
+workedunder(amarcospicuglia, agrimaldiaurelioi).
+workedunder(asaromiano, agrimaldiaurelioi).
+workedunder(amaurolenares, agrimaldiaurelioi).
+workedunder(afrancomirabella, agrimaldiaurelioi).
+workedunder(amaurizionicolosi, agrimaldiaurelioi).
+workedunder(atizianalodato, abattiatofranco).
+workedunder(araffaeladavi, agrimaldiaurelioi).
+workedunder(afabiolobello, agrimaldiaurelioi).

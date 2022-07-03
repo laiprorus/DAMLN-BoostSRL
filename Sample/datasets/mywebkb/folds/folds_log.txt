@@ -1,0 +1,52 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/mywebkb/folds//folds_log.txt
+
+WebKBSample main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Folds folder: /datasets/mywebkb/folds/
+DB file: db.texas.txt
+Number of folds: 3
+
+Reading Raw Dataset... done!
+Page constants: 803
+Word constants: 765
+Category ground atoms: 490
+Has ground atoms: 50175
+LinkTo ground atoms: 1919
+
+Creating 3 folds... done!
+
+Dataset fold 1
+Page constants: 268/803
+Word constants: 758/765
+Category ground atoms: 152/490
+Has ground atoms: 16727/50175
+LinkTo ground atoms: 190/1919
+
+Dataset fold 2
+Page constants: 268/803
+Word constants: 750/765
+Category ground atoms: 150/490
+Has ground atoms: 16361/50175
+LinkTo ground atoms: 131/1919
+
+Dataset fold 3
+Page constants: 267/803
+Word constants: 757/765
+Category ground atoms: 188/490
+Has ground atoms: 17087/50175
+LinkTo ground atoms: 352/1919
+
+Writing fold files
+Writing 'fold_all.txt' file... done!
+Writing 'fold_1.txt' file... done!
+Writing 'fold_2.txt' file... done!
+Writing 'fold_3.txt' file... done!
+
+Creating fold graphs
+Writing 'fold_all.dot' file... done!
+Writing 'fold_1.dot' file... done!
+Writing 'fold_2.dot' file... done!
+Writing 'fold_3.dot' file... done!
+
+Exiting main...
+Log stream closing...

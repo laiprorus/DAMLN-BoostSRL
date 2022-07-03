@@ -1,0 +1,69 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/mywebkb//sample_log.txt
+
+WebKBSample main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Dataset path: /datasets/mywebkb/
+Folds path: /datasets/mywebkb/folds/
+Number of folds: 3
+Train fold index: 1
+
+# Create full dataset
+Reading 'fold_all.txt' Dataset... done!
+Page constants: 803
+Word constants: 765
+Category ground atoms: 490
+Has ground atoms: 50175
+LinkTo ground atoms: 1919
+
+# Create train dataset
+Reading 'fold_1.txt' Dataset... done!
+Page constants: 268
+Word constants: 758
+Category ground atoms: 152
+Has ground atoms: 16727
+LinkTo ground atoms: 190
+
+Sample value: 0.1
+Sampling Dataset... done!
+Page constants: 27/268
+Word constants: 533/758
+Category ground atoms: 16/152
+Has ground atoms: 1694/16727
+LinkTo ground atoms: 5/190
+
+Write Dataset
+Data prefix: train
+Writing 'train_facts.txt' file... done!
+Writing 'train_pos.txt' file... done!
+Writing 'train_neg.txt' file... done!
+
+# Create test dataset
+
+Iteration: 1
+Reading 'fold_2.txt' Dataset... done!
+Page constants: 268
+Word constants: 750
+Category ground atoms: 150
+Has ground atoms: 16361
+LinkTo ground atoms: 131
+Write Dataset
+Data prefix: test_1
+Writing 'test_1_facts.txt' file... done!
+Writing 'test_1_pos.txt' file... done!
+Writing 'test_1_neg.txt' file... done!
+
+Iteration: 2
+Reading 'fold_3.txt' Dataset... done!
+Page constants: 267
+Word constants: 757
+Category ground atoms: 188
+Has ground atoms: 17087
+LinkTo ground atoms: 352
+Write Dataset
+Data prefix: test_2
+Writing 'test_2_facts.txt' file... done!
+Writing 'test_2_pos.txt' file... done!
+Writing 'test_2_neg.txt' file... done!
+
+Exiting main...
+Log stream closing...

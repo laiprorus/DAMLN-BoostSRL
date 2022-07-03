@@ -1,0 +1,97 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/imdb//sample_log.txt
+
+WebKBSample main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Dataset path: /datasets/imdb/
+Folds path: /datasets/imdb/folds/
+Number of folds: 3
+Train fold index: 1
+
+# Create full dataset
+Reading 'fold_all.txt' Dataset... done!
+Person constants: 268
+Movie constants: 20
+Genre constants: 9
+Gender ground atoms: 268
+Male/Female: 173/95
+Actor ground atoms: 236
+Director ground atoms: 32
+Genre ground atoms: 46
+Movie ground atoms: 286
+WorkedUnder ground atoms: 382
+
+# Create train dataset
+Reading 'fold_1.txt' Dataset... done!
+Person constants: 90
+Movie constants: 20
+Genre constants: 7
+Gender ground atoms: 90
+Male/Female: 53/37
+Actor ground atoms: 78
+Director ground atoms: 12
+Genre ground atoms: 15
+Movie ground atoms: 93
+WorkedUnder ground atoms: 45
+
+Sample value: 0.2
+Sampling Dataset... done!
+Person constants: 18/90
+Movie constants: 14/20
+Genre constants: 4/7
+Gender ground atoms: 18/90
+Male/Female: 9/9 / 53/37
+Actor ground atoms: 14/78
+Director ground atoms: 4/12
+Genre ground atoms: 5/15
+Movie ground atoms: 19/93
+WorkedUnder ground atoms: 1/45
+
+Write Dataset
+Data prefix: train
+Writing 'train_facts.txt' file... done!
+Writing 'train_pos.txt' file... done!
+Writing 'train_neg.txt' file... done!
+
+# Create test dataset
+
+Iteration: 1
+Reading 'fold_2.txt' Dataset... done!
+Person constants: 89
+Movie constants: 20
+Genre constants: 7
+Gender ground atoms: 89
+Male/Female: 61/28
+Actor ground atoms: 74
+Director ground atoms: 15
+Genre ground atoms: 24
+Movie ground atoms: 93
+WorkedUnder ground atoms: 62
+Write Dataset
+Data prefix: test_1
+Writing 'test_1_facts.txt' file... done!
+Writing 'test_1_pos.txt' file... done!
+Writing 'test_1_neg.txt' file... done!
+
+Iteration: 2
+Reading 'fold_3.txt' Dataset... done!
+Person constants: 89
+Movie constants: 20
+Genre constants: 2
+Gender ground atoms: 89
+Male/Female: 59/30
+Actor ground atoms: 84
+Director ground atoms: 5
+Genre ground atoms: 7
+Movie ground atoms: 100
+WorkedUnder ground atoms: 11
+Write Dataset
+Data prefix: test_2
+Writing 'test_2_facts.txt' file... done!
+Writing 'test_2_pos.txt' file... done!
+Writing 'test_2_neg.txt' file... done!
+
+Creating fold graphs
+Writing 'sample.dot' file... done!
+
+Exiting main...
+Log stream closing...

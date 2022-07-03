@@ -1,0 +1,72 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/imdb/folds//folds_log.txt
+
+WebKBSample main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Folds folder: /datasets/imdb/folds/
+DB file: db.txt
+Number of folds: 3
+
+Reading Raw Dataset... done!
+Person constants: 268
+Movie constants: 20
+Genre constants: 9
+Gender ground atoms: 268
+Male/Female: 173/95
+Actor ground atoms: 236
+Director ground atoms: 32
+Genre ground atoms: 46
+Movie ground atoms: 286
+WorkedUnder ground atoms: 382
+
+Creating 3 folds... done!
+
+Dataset fold 1
+Person constants: 90/268
+Movie constants: 20/20
+Genre constants: 7/9
+Gender ground atoms: 90/268
+Male/Female: 53/37 / 173/95
+Actor ground atoms: 78/236
+Director ground atoms: 12/32
+Genre ground atoms: 15/46
+Movie ground atoms: 93/286
+WorkedUnder ground atoms: 45/382
+
+Dataset fold 2
+Person constants: 89/268
+Movie constants: 20/20
+Genre constants: 7/9
+Gender ground atoms: 89/268
+Male/Female: 61/28 / 173/95
+Actor ground atoms: 74/236
+Director ground atoms: 15/32
+Genre ground atoms: 24/46
+Movie ground atoms: 93/286
+WorkedUnder ground atoms: 62/382
+
+Dataset fold 3
+Person constants: 89/268
+Movie constants: 20/20
+Genre constants: 2/9
+Gender ground atoms: 89/268
+Male/Female: 59/30 / 173/95
+Actor ground atoms: 84/236
+Director ground atoms: 5/32
+Genre ground atoms: 7/46
+Movie ground atoms: 100/286
+WorkedUnder ground atoms: 11/382
+
+Writing fold files
+Writing 'fold_all.txt' file... done!
+Writing 'fold_1.txt' file... done!
+Writing 'fold_2.txt' file... done!
+Writing 'fold_3.txt' file... done!
+
+Creating fold graphs
+Writing 'fold_all.dot' file... done!
+Writing 'fold_1.dot' file... done!
+Writing 'fold_2.dot' file... done!
+Writing 'fold_3.dot' file... done!
+
+Exiting main...
+Log stream closing...
