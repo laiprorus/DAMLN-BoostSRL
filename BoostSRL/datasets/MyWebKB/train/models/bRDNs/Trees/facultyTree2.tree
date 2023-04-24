@@ -1,0 +1,11 @@
+setParam: stringsAreCaseSensitive = true.
+
+usePrologVariables: true.
+
+
+(faculty(A, 0.22405010665623798) :- has(A, confer)).
+(faculty(A, 0.15361146614355287) :- has(A, recent)).
+(faculty(A, 0.04933860120086259) :- has(A, public)).
+(faculty(A, 0.07920793165463115) :- has(A, ph)).
+(faculty(A, -0.0633671522207959) :- has(A, scienc)).
+(faculty(A, 0.08108835060177998) :- has(A, fridai)).

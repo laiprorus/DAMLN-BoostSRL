@@ -1,0 +1,15 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/imdb2/db_raw/../parse_log.txt
+
+IMDB2Parse main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Database Folder: /datasets/imdb2/db_raw/
+
+# Parse raw database
+Parsing actors... done!
+Parsing directors... done!
+Parsing directors_genres... done!
+Parsing movies... done!
+Parsing movies_directors... done!
+
+Exiting main...
+Log stream closing...

@@ -1,0 +1,6 @@
+https://relational.fit.cvut.cz/dataset/IMDb
+
+worked_under:
+SELECT DISTINCT movies_directors.director_id, roles.actor_id FROM movies_directors
+JOIN movies ON movies_directors.movie_id = movies.id
+JOIN roles ON roles.movie_id = movies.id

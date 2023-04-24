@@ -1,0 +1,33 @@
+0,1695 faculty(a) v !has(a, "mathemat") /*  */
+0,1881 faculty(a) v !has(a, "mathemat") v !has(a, "softwar") /*  */
+0,2057 faculty(a) v !has(a, "professor") v !has(a, "scienc") /*  */
+-0,1474 faculty(a) v !has(a, "student") v !has(a, "studi") /*  */
+0,1943 faculty(a) v !has(a, "interest") v !has(a, "fall") v !has(a, "offic") /*  */
+-0,1742 faculty(a) v !has(a, "click") /*  */
+0,1282 faculty(a) v !has(a, "fall") /*  */
+0,0630 faculty(a) v !has(a, "softwar") v !has(a, "email") /*  */
+0,2433 faculty(a) v !has(a, "professor") /*  */
+0,3333 faculty(a) v !has(a, "teach") /*  */
+0,3951 faculty(a) v !has(a, "select") /*  */
+0,4021 faculty(a) v !has(a, "award") /*  */
+0,5436 faculty(a) v !has(a, "fax") /*  */
+-0,2575 faculty(a) v !has(a, "student") /*  */
+0,0555 faculty(a) v !has(a, "public") v !has(a, "scienc") v !has(a, "cern") /*  */
+-0,0134 faculty(a) v !has(a, "scienc") v !has(a, "cern") /*  */
+-0,1925 faculty(a) v !has(a, "make") /*  */
+0,0879 faculty(a) v !has(a, "confer") /*  */
+-0,1354 faculty(a) v !has(a, "ut") /*  */
+-0,0607 faculty(a) v !has(a, "scienc") /*  */
+0,3534 faculty(a) v !has(a, "hall") v !has(a, "fax") /*  */
+0,2656 faculty(a) v !has(a, "fridai") v !has(a, "home") v !has(a, "note") /*  */
+0,1866 faculty(a) v !has(a, "scienc") v !has(a, "lectur") /*  */
+0,0483 faculty(a) v !has(a, "public") v !has(a, "interest") /*  */
+0,1032 faculty(a) v !has(a, "fall") v !has(a, "page") /*  */
+-0,1848 faculty(a) v !has(a, "instructor") /*  */
+0,0832 faculty(a) v !has(a, "hall") v !has(a, "inform") /*  */
+0,0690 faculty(a) v !has(a, "interest") /*  */
+0,2517 faculty(a) v !has(a, "ph") /*  */
+0,2417 faculty(a) v !has(a, "public") /*  */
+-0,1836 faculty(a) v !has(a, "frame") /*  */
+0,3175 faculty(a) v !has(a, "professor") v !has(a, "univers") /*  */
+-0,0322 faculty(a) v !has(a, "research") /*  */

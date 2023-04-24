@@ -1,5 +1,6 @@
 package IMDB;
 
+import IMDB2.IMDB2Data;
 import Log.Log;
 import WebKB.WebKBData;
 

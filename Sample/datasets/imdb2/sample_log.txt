@@ -1,0 +1,11 @@
+Log stream opened: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample/datasets/imdb2//sample_log.txt
+
+WebKBSample main
+Current directory: C:\Users\ravdi\Documents\code\github\DAMLN-BoostSRL\Sample
+Dataset path: /datasets/imdb2/
+
+# Create full dataset
+Reading Raw Dataset... done!
+
+Exiting main...
+Log stream closing...
